@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test skenario invalid login</description>
+   <name>TC01 - Login Invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>07eb291a-bb92-4e58-a493-ed136258882b</testCaseGuid>
+</TestCaseEntity>
